@@ -95,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghproxy.luochu.cc.ico",
     "slug": "ghproxy",
     "status": "up",
-    "uptime": "1.87%",
-    "uptimeDay": "1.87%",
-    "uptimeWeek": "1.87%",
-    "uptimeMonth": "1.87%",
-    "uptimeYear": "1.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 110,
     "timeDay": 110,
     "timeWeek": 110,
     "timeMonth": 110,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2025-06-27": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "洛初 的 RSSHub 实例",
@@ -151,19 +149,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.luochu.cc.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "8.34%",
-    "uptimeDay": "8.34%",
-    "uptimeWeek": "8.34%",
-    "uptimeMonth": "8.34%",
-    "uptimeYear": "8.34%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 261,
     "timeDay": 261,
     "timeWeek": 261,
     "timeMonth": 261,
     "timeYear": 261,
-    "dailyMinutesDown": {
-      "2025-06-27": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "洛初 的 服务器监控",
@@ -189,19 +185,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "urlshort",
     "status": "up",
-    "uptime": "1.38%",
-    "uptimeDay": "1.38%",
-    "uptimeWeek": "1.38%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "1.38%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 102,
     "timeDay": 102,
     "timeWeek": 102,
     "timeMonth": 102,
     "timeYear": 102,
-    "dailyMinutesDown": {
-      "2025-06-27": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "洛初 的 RSS订阅",
