@@ -1,7 +1,7 @@
-url: https://status.luochu.cc/
+url: $SERVERMONITOR_URL
 status: up
 code: 200
-responseTime: 363
-lastUpdated: 2025-06-27T10:54:19.081Z
+responseTime: 277
+lastUpdated: 2025-06-27T10:54:19.534Z
 startTime: 2025-06-27T10:54:15.623Z
 generator: Upptime <https://github.com/upptime/upptime>
