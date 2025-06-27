@@ -45,6 +45,8 @@ sites:
     location: china
     assignees:
       - gongfuture
+    expectedStatusCodes:
+      - 403
   - name: 洛初 的 RSSHub 实例
     url: https://rsshub.luochu.cc/
     slug: rsshub
@@ -80,6 +82,8 @@ sites:
     location: china
     assignees:
       - gongfuture
+    expectedStatusCodes:
+      - 403
   - name: 洛初 的 RSS订阅
     url: $RSSMANAGE_URL
     slug: rssmanage
