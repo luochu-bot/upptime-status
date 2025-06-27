@@ -1,5 +1,5 @@
 # Change these first
-owner: gongfuture # Your GitHub organization or username, where this repository lives
+owner: luochu-bot # Your GitHub organization or username, where this repository lives
 repo: upptime-status # The name of this repository
 user-agent: luochu-bot # The user agent to use for requests, e.g. "luochu-bot"
 sites:
