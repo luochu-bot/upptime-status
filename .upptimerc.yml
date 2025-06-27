@@ -38,13 +38,13 @@ sites:
     location: china
     assignees:
       - gongfuture
-  # - name: 洛初 的 Github加速
-  #   url: https://ghproxy.luochu.cc/
-  #   slug: ghproxy
-  #   # type: globalping 
-  #   # location: china
-  #   assignees:
-  #     - gongfuture
+  - name: 洛初 的 Github加速
+    url: https://ghproxy.luochu.cc/
+    slug: ghproxy
+    type: globalping 
+    location: china
+    assignees:
+      - gongfuture
   - name: 洛初 的 RSSHub 实例
     url: https://rsshub.luochu.cc/
     slug: rsshub
@@ -73,13 +73,13 @@ sites:
     location: china
     assignees:
       - gongfuture
-  # - name: 洛初 的 短链接生成
-  #   url: $URLSHORT_URL
-  #   slug: urlshort
-  #   # type: globalping 
-  #   # location: china
-  #   assignees:
-  #     - gongfuture
+  - name: 洛初 的 短链接生成
+    url: $URLSHORT_URL
+    slug: urlshort
+    type: globalping 
+    location: china
+    assignees:
+      - gongfuture
   - name: 洛初 的 RSS订阅
     url: $RSSMANAGE_URL
     slug: rssmanage
