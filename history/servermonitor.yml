@@ -1,7 +1,7 @@
 url: $SERVERMONITOR_URL
 status: up
 code: 200
-responseTime: 224
-lastUpdated: 2025-06-27T10:57:21.035Z
+responseTime: 287
+lastUpdated: 2025-06-27T11:06:19.083Z
 startTime: 2025-06-27T10:57:20.808Z
 generator: Upptime <https://github.com/upptime/upptime>
