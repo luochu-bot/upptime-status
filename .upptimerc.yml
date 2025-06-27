@@ -1,36 +1,125 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: gongfuture # Your GitHub organization or username, where this repository lives
+repo: upptime-status # The name of this repository
+user-agent: luochu-bot # The user agent to use for requests, e.g. "luochu-bot"
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: 洛初 的 主页
+    url: https://home.luochu.cc/
+    type: globalping 
+    location: china
+    assignees:
+      - gongfuture
+  - name: 洛初 的 档案馆
+    url: https://blog.luochu.cc/
+    type: globalping 
+    location: china
+    assignees:
+      - gongfuture
+  - name: 洛初 睡醒了么
+    url: https://sleepy.luochu.cc/
+    type: globalping 
+    location: china
+    assignees:
+      - gongfuture
+  - name: 洛初 的 图床
+    url: https://picbed.luochu.cc/
+    type: globalping 
+    location: china
+    assignees:
+      - gongfuture
+  - name: 洛初 的 工具箱
+    url: https://tool.luochu.cc/
+    type: globalping 
+    location: china
+    assignees:
+      - gongfuture
+  # - name: 洛初 的 Github加速
+  #   url: https://ghproxy.luochu.cc/
+  #   # type: globalping 
+  #   # location: china
+  #   assignees:
+  #     - gongfuture
+  - name: 洛初 的 RSSHub 实例
+    url: https://rsshub.luochu.cc/
+    type: globalping 
+    location: china
+    assignees:
+      - gongfuture
+  - name: 洛初 的 Linux指令查询
+    url: https://linuxcmd.luochu.cc/
+    type: globalping 
+    location: china
+    assignees:
+      - gongfuture
+  - name: 洛初 的 监控页
+    url: https://status.luochu.cc/
+    type: globalping 
+    location: china
+    assignees:
+      - gongfuture
+  - name: 洛初 的 服务器监控
+    url: $SERVERMONITOR_URL
+    type: globalping 
+    location: china
+    assignees:
+      - gongfuture
+  # - name: 洛初 的 短链接生成
+  #   url: $URLSHORT_URL
+  #   # type: globalping 
+  #   # location: china
+  #   assignees:
+  #     - gongfuture
+  - name: 洛初 的 RSS订阅
+    url: $RSSMANAGE_URL
+    type: globalping 
+    location: china
+    assignees:
+      - gongfuture
+  - name: 服务器管理后台<br>需要认证
+    url: $BACKEND_URL
+    type: globalping 
+    location: china
+    assignees:
+      - gongfuture
+
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: dev.status.luochu.cc
   # baseUrl: /your-repo-name
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: 洛初 的 监控页
+  introTitle: "这是洛初用来监控自己的一系列服务的状态页"
+  introMessage: |
+    可能还有一些其他的奇奇怪怪的服务(? , 会放在最下方  
+    使用来自 [Upptime-status](https://github.com/luochu-bot/upptime-status) 的**实时**数据  
+    <br>
+    Powered by [Upptime](https://upptime.js.org/) , [Github](https://github.com) Actions, Issues, and Pages
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  customHeadHtml: |
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5DWQQ56Z');</script>
+    <!-- End Google Tag Manager -->
+  customBodyHtml: |
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5DWQQ56Z"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+commitMessages:
+  commitAuthorName: "luochu-bot"
+  commitAuthorEmail: "bot@luochu.cc"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
