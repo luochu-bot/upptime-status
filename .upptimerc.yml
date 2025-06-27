@@ -5,78 +5,91 @@ user-agent: luochu-bot # The user agent to use for requests, e.g. "luochu-bot"
 sites:
   - name: 洛初 的 主页
     url: https://home.luochu.cc/
+    slug: home
     type: globalping 
     location: china
     assignees:
       - gongfuture
   - name: 洛初 的 档案馆
     url: https://blog.luochu.cc/
+    slug: blog
     type: globalping 
     location: china
     assignees:
       - gongfuture
   - name: 洛初 睡醒了么
     url: https://sleepy.luochu.cc/
+    slug: sleepy
     type: globalping 
     location: china
     assignees:
       - gongfuture
   - name: 洛初 的 图床
     url: https://picbed.luochu.cc/
+    slug: picbed
     type: globalping 
     location: china
     assignees:
       - gongfuture
   - name: 洛初 的 工具箱
     url: https://tool.luochu.cc/
+    slug: tool
     type: globalping 
     location: china
     assignees:
       - gongfuture
   # - name: 洛初 的 Github加速
   #   url: https://ghproxy.luochu.cc/
+  #   slug: ghproxy
   #   # type: globalping 
   #   # location: china
   #   assignees:
   #     - gongfuture
   - name: 洛初 的 RSSHub 实例
     url: https://rsshub.luochu.cc/
+    slug: rsshub
     type: globalping 
     location: china
     assignees:
       - gongfuture
   - name: 洛初 的 Linux指令查询
     url: https://linuxcmd.luochu.cc/
+    slug: linuxcmd
     type: globalping 
     location: china
     assignees:
       - gongfuture
   - name: 洛初 的 监控页
     url: https://status.luochu.cc/
+    slug: status
     type: globalping 
     location: china
     assignees:
       - gongfuture
   - name: 洛初 的 服务器监控
     url: $SERVERMONITOR_URL
+    slug: servermonitor
     type: globalping 
     location: china
     assignees:
       - gongfuture
   # - name: 洛初 的 短链接生成
   #   url: $URLSHORT_URL
+  #   slug: urlshort
   #   # type: globalping 
   #   # location: china
   #   assignees:
   #     - gongfuture
   - name: 洛初 的 RSS订阅
     url: $RSSMANAGE_URL
+    slug: rssmanage
     type: globalping 
     location: china
     assignees:
       - gongfuture
-  - name: 服务器管理后台<br>需要认证
+  - name: 服务器管理后台
     url: $BACKEND_URL
+    slug: backend
     type: globalping 
     location: china
     assignees:
