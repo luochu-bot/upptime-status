@@ -3,42 +3,42 @@ owner: luochu-bot # Your GitHub organization or username, where this repository 
 repo: upptime-status # The name of this repository
 user-agent: luochu-bot # The user agent to use for requests, e.g. "luochu-bot"
 sites:
-  - name: 洛初 的 主页
+  - name: home
     url: https://home.luochu.cc/
     slug: home
     type: globalping 
     location: china
     assignees:
       - gongfuture
-  - name: 洛初 的 档案馆
+  - name: blog
     url: https://blog.luochu.cc/
     slug: blog
     type: globalping 
     location: china
     assignees:
       - gongfuture
-  - name: 洛初 睡醒了么
+  - name: sleepy
     url: https://sleepy.luochu.cc/
     slug: sleepy
     type: globalping 
     location: china
     assignees:
       - gongfuture
-  - name: 洛初 的 图床
+  - name: picbed
     url: https://picbed.luochu.cc/
     slug: picbed
     type: globalping 
     location: china
     assignees:
       - gongfuture
-  - name: 洛初 的 工具箱
+  - name: tool
     url: https://tool.luochu.cc/
     slug: tool
     type: globalping 
     location: china
     assignees:
       - gongfuture
-  - name: 洛初 的 Github加速
+  - name: ghproxy
     url: https://ghproxy.luochu.cc/
     slug: ghproxy
     type: globalping 
@@ -47,35 +47,35 @@ sites:
       - gongfuture
     expectedStatusCodes:
       - 403
-  - name: 洛初 的 RSSHub 实例
+  - name: rsshub
     url: https://rsshub.luochu.cc/
     slug: rsshub
     type: globalping 
     location: china
     assignees:
       - gongfuture
-  - name: 洛初 的 Linux指令查询
+  - name: linuxcmd
     url: https://linuxcmd.luochu.cc/
     slug: linuxcmd
     type: globalping 
     location: china
     assignees:
       - gongfuture
-  - name: 洛初 的 监控页
+  - name: status
     url: https://status.luochu.cc/
     slug: status
     type: globalping 
     location: china
     assignees:
       - gongfuture
-  - name: 洛初 的 服务器监控
+  - name: servermonitor
     url: $SERVERMONITOR_URL
     slug: servermonitor
     type: globalping 
     location: china
     assignees:
       - gongfuture
-  - name: 洛初 的 短链接生成
+  - name: urlshort
     url: $URLSHORT_URL
     slug: urlshort
     type: globalping 
@@ -84,14 +84,14 @@ sites:
       - gongfuture
     expectedStatusCodes:
       - 403
-  - name: 洛初 的 RSS订阅
+  - name: rssmanage
     url: $RSSMANAGE_URL
     slug: rssmanage
     type: globalping 
     location: china
     assignees:
       - gongfuture
-  - name: 服务器管理后台
+  - name: backend
     url: $BACKEND_URL
     slug: backend
     type: globalping 
