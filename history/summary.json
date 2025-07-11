@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.luochu.cc.ico",
     "slug": "home",
     "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "86.53%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.02%",
+    "uptimeDay": "85.95%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.02%",
     "time": 156,
     "timeDay": 142,
     "timeWeek": 139,
     "timeMonth": 156,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-07-11": 193
+      "2025-07-11": 202
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.luochu.cc.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "88.85%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.22%",
+    "uptime": "99.18%",
+    "uptimeDay": "88.26%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
     "time": 162,
     "timeDay": 124,
     "timeWeek": 130,
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-07-11": 160
+      "2025-07-11": 168
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sleepy.luochu.cc.ico",
     "slug": "sleepy",
     "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "94.55%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptime": "99.58%",
+    "uptimeDay": "93.96%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 170,
     "timeDay": 139,
     "timeWeek": 175,
     "timeMonth": 170,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-07-11": 79
+      "2025-07-11": 87
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/picbed.luochu.cc.ico",
     "slug": "picbed",
     "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "90.58%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
+    "uptime": "99.30%",
+    "uptimeDay": "89.99%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
     "time": 162,
     "timeDay": 128,
     "timeWeek": 162,
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-07-11": 136
+      "2025-07-11": 144
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tool.luochu.cc.ico",
     "slug": "tool",
     "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "89.59%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.28%",
+    "uptime": "99.23%",
+    "uptimeDay": "89.00%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
     "time": 172,
     "timeDay": 123,
     "timeWeek": 129,
     "timeMonth": 172,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2025-07-11": 150
+      "2025-07-11": 159
     }
   },
   {
@@ -123,18 +123,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.luochu.cc.ico",
     "slug": "rsshub",
     "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "91.16%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.34%",
+    "uptimeDay": "90.56%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
     "time": 241,
     "timeDay": 179,
     "timeWeek": 190,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-07-11": 127
+      "2025-07-11": 136
     }
   },
   {
@@ -143,18 +143,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/linuxcmd.luochu.cc.ico",
     "slug": "linuxcmd",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "91.26%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.39%",
+    "uptime": "99.35%",
+    "uptimeDay": "90.67%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 131,
     "timeDay": 108,
     "timeWeek": 125,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-07-11": 125
+      "2025-07-11": 134
     }
   },
   {
@@ -163,18 +163,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.luochu.cc.ico",
     "slug": "status",
     "status": "down",
-    "uptime": "93.99%",
-    "uptimeDay": "13.59%",
-    "uptimeWeek": "87.66%",
-    "uptimeMonth": "93.99%",
-    "uptimeYear": "93.99%",
+    "uptime": "93.66%",
+    "uptimeDay": "8.86%",
+    "uptimeWeek": "86.98%",
+    "uptimeMonth": "93.66%",
+    "uptimeYear": "93.66%",
     "time": 265,
     "timeDay": 216,
     "timeWeek": 224,
     "timeMonth": 265,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-07-11": 1243
+      "2025-07-11": 1311
     }
   },
   {
@@ -182,17 +182,17 @@
     "url": "$SERVERMONITOR_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "servermonitor",
-    "status": "up",
-    "uptime": "99.65%",
+    "status": "down",
+    "uptime": "99.64%",
     "uptimeDay": "94.90%",
     "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 240,
-    "timeDay": 202,
-    "timeWeek": 199,
-    "timeMonth": 240,
-    "timeYear": 240,
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 234,
+    "timeDay": 182,
+    "timeWeek": 189,
+    "timeMonth": 234,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2025-07-11": 74
     }
@@ -221,18 +221,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rssmanage",
     "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "93.33%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.50%",
+    "uptimeDay": "92.74%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
     "time": 224,
     "timeDay": 160,
     "timeWeek": 175,
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-07-11": 95
+      "2025-07-11": 104
     }
   },
   {
