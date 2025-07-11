@@ -22,19 +22,19 @@
     "url": "https://blog.luochu.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.luochu.cc.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 137,
-    "timeWeek": 137,
-    "timeMonth": 172,
-    "timeYear": 172,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "94.20%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 171,
+    "timeDay": 141,
+    "timeWeek": 139,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 83
     }
   },
   {
@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.luochu.cc.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.50%",
+    "uptimeDay": "92.96%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
     "time": 290,
     "timeDay": 337,
     "timeWeek": 252,
     "timeMonth": 290,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-07-11": 18
+      "2025-07-11": 101
     }
   },
   {
