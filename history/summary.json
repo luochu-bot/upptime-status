@@ -121,19 +121,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.luochu.cc.ico",
     "slug": "rsshub",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 243,
     "timeDay": 176,
     "timeWeek": 190,
     "timeMonth": 243,
     "timeYear": 243,
-    "dailyMinutesDown": {
-      "2025-07-11": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "linuxcmd",
@@ -141,18 +139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/linuxcmd.luochu.cc.ico",
     "slug": "linuxcmd",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 141,
+    "uptime": "99.85%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 139,
     "timeDay": 121,
-    "timeWeek": 145,
-    "timeMonth": 141,
-    "timeYear": 141,
+    "timeWeek": 141,
+    "timeMonth": 139,
+    "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-07-11": 22
+      "2025-07-11": 31
     }
   },
   {
@@ -161,18 +159,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.luochu.cc.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "83.34%",
-    "uptimeWeek": "97.62%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
+    "uptime": "98.81%",
+    "uptimeDay": "83.06%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "98.81%",
     "time": 290,
     "timeDay": 337,
     "timeWeek": 252,
     "timeMonth": 290,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-07-11": 240
+      "2025-07-11": 244
     }
   },
   {
@@ -216,19 +214,19 @@
     "url": "$RSSMANAGE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rssmanage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 244,
-    "timeDay": 209,
-    "timeWeek": 198,
+    "timeDay": 218,
+    "timeWeek": 202,
     "timeMonth": 244,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 9
     }
   },
   {
