@@ -82,19 +82,19 @@
     "url": "https://tool.luochu.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/tool.luochu.cc.ico",
     "slug": "tool",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 181,
-    "timeDay": 135,
-    "timeWeek": 135,
-    "timeMonth": 181,
-    "timeYear": 181,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 178,
+    "timeDay": 128,
+    "timeWeek": 132,
+    "timeMonth": 178,
+    "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-07-11": 18
+      "2025-07-11": 41
     }
   },
   {
@@ -120,18 +120,20 @@
     "url": "https://rsshub.luochu.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.luochu.cc.ico",
     "slug": "rsshub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 151,
-    "timeWeek": 184,
-    "timeMonth": 245,
-    "timeYear": 245,
-    "dailyMinutesDown": {}
+    "time": 241,
+    "timeDay": 149,
+    "timeWeek": 180,
+    "timeMonth": 241,
+    "timeYear": 241,
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "linuxcmd",
@@ -159,18 +161,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.luochu.cc.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "85.91%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
+    "uptime": "98.89%",
+    "uptimeDay": "84.30%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
     "time": 290,
     "timeDay": 337,
     "timeWeek": 252,
     "timeMonth": 290,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-07-11": 203
+      "2025-07-11": 226
     }
   },
   {
