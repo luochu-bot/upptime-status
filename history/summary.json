@@ -4,19 +4,19 @@
     "url": "https://home.luochu.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/home.luochu.cc.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 143,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 158,
+    "timeDay": 140,
     "timeWeek": 137,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 22
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://sleepy.luochu.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/sleepy.luochu.cc.ico",
     "slug": "sleepy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 108,
-    "timeWeek": 195,
-    "timeMonth": 175,
-    "timeYear": 175,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 179,
+    "timeDay": 166,
+    "timeWeek": 205,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 22
     }
   },
   {
@@ -118,18 +118,20 @@
     "url": "https://rsshub.luochu.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.luochu.cc.ico",
     "slug": "rsshub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 289,
-    "timeWeek": 213,
-    "timeMonth": 259,
-    "timeYear": 259,
-    "dailyMinutesDown": {}
+    "time": 251,
+    "timeDay": 174,
+    "timeWeek": 194,
+    "timeMonth": 251,
+    "timeYear": 251,
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "linuxcmd",
@@ -157,18 +159,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.luochu.cc.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "91.39%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.39%",
+    "uptime": "99.18%",
+    "uptimeDay": "88.35%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
     "time": 290,
     "timeDay": 337,
     "timeWeek": 252,
     "timeMonth": 290,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-07-11": 123
+      "2025-07-11": 167
     }
   },
   {
