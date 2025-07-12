@@ -8,43 +8,43 @@ sites:
     slug: home
     type: globalping 
     location: china
-    assignees:
-      - gongfuture
+    # assignees:
+    #   - gongfuture
   - name: blog
     url: https://blog.luochu.cc/
     slug: blog
     type: globalping 
     location: china
-    assignees:
-      - gongfuture
+    # assignees:
+    #   - gongfuture
   - name: sleepy
     url: https://sleepy.luochu.cc/
     slug: sleepy
     type: globalping 
     location: china
-    assignees:
-      - gongfuture
+    # assignees:
+    #   - gongfuture
   - name: picbed
     url: https://picbed.luochu.cc/
     slug: picbed
     type: globalping 
     location: china
-    assignees:
-      - gongfuture
+    # assignees:
+    #   - gongfuture
   - name: tool
     url: https://tool.luochu.cc/
     slug: tool
     type: globalping 
     location: china
-    assignees:
-      - gongfuture
+    # assignees:
+    #   - gongfuture
   - name: ghproxy
     url: https://ghproxy.luochu.cc/
     slug: ghproxy
     type: globalping 
     location: china
-    assignees:
-      - gongfuture
+    # assignees:
+    #   - gongfuture
     expectedStatusCodes:
       - 403
   - name: rsshub
@@ -52,36 +52,36 @@ sites:
     slug: rsshub
     type: globalping 
     location: china
-    assignees:
-      - gongfuture
+    # assignees:
+    #   - gongfuture
   - name: linuxcmd
     url: https://linuxcmd.luochu.cc/
     slug: linuxcmd
     type: globalping 
     location: china
-    assignees:
-      - gongfuture
+    # assignees:
+    #   - gongfuture
   - name: status
     url: https://status.luochu.cc/
     slug: status
     type: globalping 
     location: china
-    assignees:
-      - gongfuture
+    # assignees:
+    #   - gongfuture
   - name: servermonitor
     url: $SERVERMONITOR_URL
     slug: servermonitor
     type: globalping 
     location: china
-    assignees:
-      - gongfuture
+    # assignees:
+    #   - gongfuture
   - name: urlshort
     url: $URLSHORT_URL
     slug: urlshort
     type: globalping 
     location: china
-    assignees:
-      - gongfuture
+    # assignees:
+    #   - gongfuture
     expectedStatusCodes:
       - 403
   - name: rssmanage
@@ -89,15 +89,15 @@ sites:
     slug: rssmanage
     type: globalping 
     location: china
-    assignees:
-      - gongfuture
+    # assignees:
+    #   - gongfuture
   - name: backend
     url: $BACKEND_URL
     slug: backend
     type: globalping 
     location: china
-    assignees:
-      - gongfuture
+    # assignees:
+    #   - gongfuture
 
 
 
