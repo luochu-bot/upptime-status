@@ -1,7 +1,7 @@
 url: $SERVERMONITOR_URL
 status: down
 code: 403
-responseTime: 74
-lastUpdated: 2025-07-20T23:20:47.417Z
+responseTime: 80
+lastUpdated: 2025-07-21T23:20:12.916Z
 startTime: 2025-06-27T10:57:20.808Z
 generator: Upptime <https://github.com/upptime/upptime>
